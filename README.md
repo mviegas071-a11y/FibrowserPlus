@@ -1,5 +1,5 @@
 
-# 🌐 Fibrowser Pro – Python Web Browser with PyQt5 🚀
+# 🌐 Fibrowser Plus – Python Web Browser with PyQt5 🚀
 
 Fibrowser Pro is a sleek, modern, and feature-rich custom **web browser** built with **Python** and **PyQt5**. It comes packed with smooth animations, multi-tab browsing, theme support, bookmarks, download manager, developer console, and more — all in one clean and responsive UI! 🧠✨
 
